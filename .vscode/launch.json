@@ -8,11 +8,11 @@
             "type": "firefox",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/home/sebastien/Bureau/Workspace/indexexercice3.html"
+            //"file": "/home/sebastien/Bureau/Workspace/indexexercice3.html"
             //"file": "/home/sebastien/Bureau/Workspace/indexexercice2.html"
             //"file": "/home/sebastien/Bureau/Workspace/indexexercice.html"
             //"file": "/home/sebastien/Bureau/Workspace/indexcolonneslignes.html"
-            //"file": "/home/sebastien/Bureau/Workspace/index.html"
+            "file": "/home/sebastien/Bureau/Workspace/index.html"
         }
     ]
 }
